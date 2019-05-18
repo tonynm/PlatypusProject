@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1520991082 source:c:\users\tony nguyen\desktop\sdsu related items\2018 spring\compe-260\compe-260 projects\platypus\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Platypus.h"
+
+1519712526 c:\users\tony nguyen\desktop\sdsu related items\2018 spring\compe-260\compe-260 projects\platypus\platypus.h
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1519712526 source:c:\users\tony nguyen\desktop\sdsu related items\2018 spring\compe-260\compe-260 projects\platypus\platypus.cpp
+	<iostream>
+	<stdlib.h>
+	"Platypus.h"
+
